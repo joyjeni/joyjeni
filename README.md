@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jenisha T
 - 👀 I’m interested in Computer Vision
-- 🌱 I’m currently learning Infrastructure Automation 
+- 🌱 I’m currently working on Infrastructure Automation 
 - 💞️ I’m looking to collaborate on computer vision projects like object detection, segmentation, 3d reconstruction
 - 📫  Reach me joyjeni@gmail.com
 
