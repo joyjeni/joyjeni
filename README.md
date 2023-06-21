@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jenisha T
 - 👀 I have expertise in Computer Vision
 - 🌱 I’m currently working on Infrastructure Automation using AI
-- 💞️ I’m looking to collaborate on computer vision projects like object detection, segmentation, 3d reconstruction
+- 💞️ I’m looking to collaborate on computer vision projects like object detection, segmentation, 3d reconstruction, medical image diagnosis using AI
 - 📫  Reach me : joyjeni@gmail.com
 
 <!---
