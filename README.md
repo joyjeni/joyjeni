@@ -2,7 +2,7 @@
 - 👀 I have expertise in Computer Vision
 - 🌱 I’m currently working on Infrastructure Automation using AI
 - 💞️ I’m looking to collaborate on computer vision projects like object detection, segmentation, 3d reconstruction
-- 📫  Reach me joyjeni@gmail.com
+- 📫  Reach me : joyjeni@gmail.com
 
 <!---
 joyjeni/joyjeni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
