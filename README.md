@@ -12,16 +12,10 @@
 
 ## 🔭 Current Focus
 
-- 🏗️ Building multi-agent AI systems for IT incident resolution
-- 📊 Integrating AI with enterprise platforms (ServiceNow, GCP)
+- 🏗️ Building multi-agent AI systems 
+- 📊 Integrating AI with enterprise platforms 
 - 🎓 STEM education and creating educational content
 - 🛠️ Developing DIY IoT kits and computer vision projects
-
-## 💼 Professional Experience
-
-- **Kyndryl**: Agentic AI Developer
-- **Abigail Creations**: Founder & CEO - AI, IoT, STEM Training
-- Cloud Infrastructure & Monitoring Solutions
 
 ## 🛠️ Tech Stack
 
@@ -39,15 +33,10 @@
 - Cloud Shell, Compute Engine
 - Git, VS Code
 
-**Enterprise Tools:**
-- ServiceNow ITSM Integration
-- Telemetry & Monitoring Systems
-
 ## 📫 How to Reach Me
 
 📧 Reach me: joyjeni@gmail.com
 💼 LinkedIn: [jenisha-t](https://www.linkedin.com/in/jenisha-t/)
-📍 Based in Bengaluru, India
 
 ## 🎯 Interests
 
